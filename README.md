@@ -7,7 +7,7 @@ Este proyecto es un juego interactivo desarrollado en Scratch.
 - Interfaz intuitiva y colorida.
 - Elementos interactivos que estimulan la habilidad del jugador.
 
-## Capturas de Pantalla
+## Cartel con explicación sobre el juego
 ![Preview](https://raw.githubusercontent.com/isromar/scratch/main/preview_cartel.jpg)
 
 ## Instrucciones de Juego
